@@ -1,4 +1,6 @@
-# Signed
+# Sigmaos Signed
+
+> Forked from omacom (MIT). See `SIGMAOS_FORK.md`.
 
 ![Signed with a signature, a date, and text placed on a lease](docs/screenshot.png)
 
